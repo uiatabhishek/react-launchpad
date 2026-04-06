@@ -1,10 +1,6 @@
 # 🚀 React Launchpad
 
 <p align="center">
-  <img src="./banner.png" alt="React Launchpad Banner" />
-</p>
-
-<p align="center">
   <b>⚡ Production-ready React boilerplate for scalable frontend apps</b>
 </p>
 
