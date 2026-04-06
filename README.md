@@ -20,7 +20,7 @@
 
 Stop setting up the same configs again and again.
 
-**React Launchpad v3** gives you a clean, scalable foundation with:
+**React Launchpad** gives you a clean, scalable foundation with:
 
 * ⚡ Lightning-fast setup (Vite)
 * 🧠 Smart state management (Zustand)
